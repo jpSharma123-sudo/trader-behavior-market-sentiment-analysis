@@ -1,3 +1,3 @@
-# Advanced Trader Behavior Insights
+# Trader Behavior vs Market Sentiment Analysis
 
-Includes EDA, segmentation, visualizations and predictive model.
+Analyzing how Bitcoin market sentiment (Fear/Greed) influences trader behavior and performance using data science, clustering, and predictive modeling.
